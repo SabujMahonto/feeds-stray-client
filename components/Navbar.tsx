@@ -49,7 +49,7 @@ const Navbar = () => {
           <ul className="menu menu-horizontal px-1">{navLinks}</ul>
         </nav>
         <nav className="navbar-end">
-          <Link href="/login" className="btn">
+          <Link href="/login" className="btn btn-accent">
             Login
           </Link>
         </nav>
