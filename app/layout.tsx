@@ -13,7 +13,7 @@ const baiJamjuree = Bai_Jamjuree({
 export const metadata = {
   title: "FeedStray | Home",
   description:
-    "Elysian Feeds is a charitable initiative website that empowers users to contribute resources or consume them, fostering collaboration and empowerment.",
+    " FeedStray is a charitable initiative website that empowers users to contribute resources or consume them, fostering collaboration and empowerment.",
 };
 
 export default function RootLayout({
